@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 My projects are available at [dev-jose.com](dev-jose.com)
+- 👨‍💻 My projects are available at [dev-jose.com](www.dev-jose.com)
 
 - 💻 Check out my Frontend Mentor profile [https://www.frontendmentor.io/profile/placeteno](https://www.frontendmentor.io/profile/placeteno)
 
