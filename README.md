@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola!, Hi! 👋, I'm José González, Software Engineer</h1>
 <h3 align="center">Software engineer with a passion for building modern, responsive websites and web applications that users enjoy and appreciate.</h3>
 
-- 🔭 I’m currently working on **100 Hours Project**
+- 🔭 I’m currently working on **IEP Flashboard**, a full stack web application designed for SPED teachers. [iepflashboard.com](iepflashboard.com)
 
 - 🌱 I’m currently learning **MERN Stack**
 
